@@ -84,7 +84,7 @@ How to identify film stock by edge code on the film negatives:
 
 
 
-#### Only 120
+#### 120 - Medium Format
 
 | Edge Code     | Brand         | Film Type                 | ISO   | Additional Notes                               |
 |---------------|---------------|---------------------------|-------|------------------------------------------------|
@@ -122,5 +122,6 @@ How to identify film stock by edge code on the film negatives:
 | Velvia 100    | Fujifilm      | Velvia 100                | 100   | Slide film, rich saturation, landscape         |
 
 
-
-
+### Other Resources
+- [List of Kodak film numbers](list-of-kodak-film-numbers.md)
+- [Film Emulsion Codes](FilmID.pdf)
