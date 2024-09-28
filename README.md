@@ -24,7 +24,7 @@ How to identify film stock by edge code on the film negatives:
 | C-41          | Kodak         | UltraMax 400              | 400   | 35mm   | Color negative, versatile consumer film            |
 | 160NC         | Kodak         | Portra 160NC              | 160   | 35mm   | Color negative, natural color balance              |
 | 200-7         | Kodak         | Gold 200                  | 200   | 35mm   | Color negative, versatile consumer film            |
-| TBD           | Kodak         | ColorPlus 200             | 200   | 35mm   | Popular consumer film, great for daylight shots    |
+| 200-8         | Kodak         | ColorPlus 200             | 200   | 35mm   | Popular consumer film, great for daylight shots    |
 | GB 200-7      | Kodak         | Gold 200                  | 200   | 35mm   | Color negative, versatile consumer film            |
 | GT 800-7      | Kodak         | Gold 800                  | 800   | 35mm   | Discontinued color negative, high-speed            |
 | TBD           | Kodak         | Kodachrome 64             | 64    | 35mm   | Color slide film, legendary, discontinued in 2009  |
